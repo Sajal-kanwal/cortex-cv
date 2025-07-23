@@ -95,5 +95,5 @@ To get a local copy up and running, follow these simple steps.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Made with ❤️ by Sajal Kanwal</p>
 </div>
